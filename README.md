@@ -1,6 +1,6 @@
 # Amercican-Options
 Pricing American options 
-This repository contains different methods and algorithms to price American options with or without cash dividends.
+This repository contains different methods and algorithms to price American options with or without cash dividends. \\
 The used methods are : 
 1) Finite difference methods: Explicit - Implicit - Crank Nicolson
 2) Binomial tree
